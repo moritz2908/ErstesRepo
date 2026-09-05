@@ -1,1 +1,0 @@
-print("das ist mein erstes Repository")
